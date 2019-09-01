@@ -1,0 +1,98 @@
+
+.placeholder {
+	background-color: #cfcfcf;
+}
+
+ol.sortable{
+	padding-left:0px;
+}
+
+ol.sortable li{
+	list-style:none !important;
+}
+
+.image-holder:hover .hover-del{
+	display:block;
+}
+
+.hover-del{
+	background:#000;
+	display:none;
+	position:absolute;
+	width:100%;
+}
+
+.hover-del a{
+	color:#FFF;
+	margin:0 0 0 5px;
+	text-decoration:none;
+}
+
+.image-holder:hover .hover-update{
+	display:block;
+}
+
+.hover-update{
+	background:#000;
+	display:none;
+	position:absolute;
+	bottom:0px;
+	width:100%;
+}
+
+.hover-update a{
+	color:#FFF;
+	margin:0 0 0 5px;
+	text-decoration:none;
+}
+
+.breadcrumbs{
+	margin:20px 10px 5px 20px;
+}
+
+.content-manager{
+	max-height:300px;
+	overflow:auto;
+}
+
+.alert.strshp{
+	cursor:move;
+	list-style:none;
+	margin:0 0 5px 0;
+	padding:3px 5px 0 5px;
+	width:100%;
+	z-index:1000;
+}
+
+.buggy-strshp{
+	background:red;
+}
+
+.draggable .block-holder{
+	display:none;
+}
+
+.sortable{
+	margin:0;
+	min-height:25px;
+	padding:-20px;
+}
+
+.sortable .block-holder{
+	display:block;
+	margin:-3px 0 -7.5px 0;
+}
+
+.ui-sortable-placeholder{
+	background:none;
+	border:1px dashed #000;
+	visibility:visible !important;
+}
+
+li.ui-sortable-placeholder{
+	margin:0 0 20px 0 !important;
+}
+
+li .panel-heading{
+	cursor:move !important;
+}

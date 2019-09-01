@@ -1,0 +1,320 @@
+.clear-height-8{
+	margin-top: 8px;
+}
+.clear-height-14{
+	margin : 14px 5px;
+}
+.clear-width-35{
+	margin: 20px 35px;	
+}
+.clear-height-2{
+	margin: 18px 2px;
+}
+.clear-height-10{
+	margin: 10px 10px;
+}
+.clear-height-7{
+	margin-top: 7px;
+}
+.col-height-fix{
+	margin-top: 25px;
+	margin-left: -16px;
+}
+.clear-weight-6{
+	margin: 10px 6px;
+}
+.clear-weight-10{
+	margin: 10px 10px;
+}
+.clear-weight-14{
+	margin: 14px 14px;
+}
+.clear-height-5{
+	margin-top: 5px ;
+}
+.clear-height-29{
+	margin-top: 29px;
+}
+.clear-height-30{
+	margin-top: 30px;
+}
+.clear-height-20{
+	margin: 20px 20px;
+}
+.clear-height-13{
+	margin: 13px 0;
+}
+.clear-height-22{
+	margin: 22px 20px;
+}
+.clear-height-25{
+	margin-top: 25px;
+}
+.clear-padding-20{
+	padding: 20px 20px;
+}
+.clear-weight-5{
+	margin: 20px 3.5px;
+}
+.clear-height-15{
+	margin: 15px 15px;
+}
+.clear-weight-17{
+	margin: 22px 17px;
+}
+.clear-weight-20{
+	margin: 22px 17px;
+}
+.clear-weight-25{
+	margin: 20px 25px;
+}
+.margin-top img{
+	margin-top: -370px;
+}
+.margin-top-100 img{
+	margin-left: 12px;
+	margin-top: -170px;
+}
+.margin-left{
+	margin-left: 10px;
+}
+.content1{
+	height: 105px;
+	border: 1px solid #e8e8e8;
+}
+.content1 img{
+	margin: 12px 9px;
+	float: left;
+}
+.content1-title{
+	font-size: 13px;
+	font-weight: bold;
+}
+.content1-description{
+	font-size: 12px;
+}
+.editorial .title{
+	margin-left: 24px;
+	text-align: center;
+	padding: 10px 14px;
+	background-color: #02a384;
+	width:94px;
+}
+.editorial{
+	border: 1px solid #e8e8e8;
+	font-weight: bold;
+	font-size: 13px;
+	color: #ffffff;
+}
+.editorial-content{
+	border: 1px solid #e8e8e8;
+}
+.editorial-content-title{
+	font-size: 15px;
+	font-weight: bold;
+}
+.editorial-content-date{
+	font-size: 15px;
+}
+.berita-utama .title{
+	text-align: center;
+	color: #000000;
+	font-weight: bold;
+	font-size: 20px;
+}
+.berita-utama{
+	border: 1px solid #e8e8e8;
+	font-weight: bold;
+	font-size: 13px;
+	color: #ffffff;
+}
+.berita-utama-content{
+	border: 1px solid #e8e8e8;
+}
+.berita-utama-title{
+	font-weight: bold;
+	font-size: 17px;
+	text-align: center;
+}
+.jatim .title{
+	text-align: center;
+	margin-left: 24px;
+	padding: 10px 14px;
+	background-color: #02a384;
+	width:94px;
+}
+.jatim{
+	margin-top: 10px;
+	border: 1px solid #e8e8e8;
+	font-weight: bold;
+	font-size: 13px;
+	color: #ffffff;
+}
+.post{
+	width: 370px;
+}
+.post .btn-green{
+	background-color: #00a482;
+	color: #ffffff;
+	border-radius: 0%;
+	height: 30px;
+}
+.post .btn-default{
+	border-radius: 0%;
+	margin-left: -4px;
+	height: 30px;
+}
+.post .content-post{
+	border: 1px solid #e8e8e8;
+	height: 570px;
+}
+.content-post1 img{
+	margin-right: 10px;
+	float: left;
+}
+.content-post-title{
+	font-weight: bold;
+	text-align: left;
+}
+.content-post-date{
+	margin-top: 4px;
+}
+.content-post2{
+	float: left;
+	width: 330px;
+}
+.content-post2 img{
+	float: left;
+	margin-right: 10px;
+}
+.post .content-post-title{
+	margin-top: -4px;
+}
+.jatim-content{
+	border: 1px solid #e8e8e8;
+}
+.jatimcontent-title{
+	font-weight: bold;
+	font-size: 20px;
+}
+.jatimcontent-description{
+	font-size: 16px;
+}
+.opini .title{
+	margin-left: 24px;
+	text-align: center;
+	padding: 10px 14px;
+	background-color: #02a384;
+	width:94px;
+}
+.opini{
+	border: 1px solid #e8e8e8;
+	font-weight: bold;
+	font-size: 13px;
+	color: #ffffff;
+}
+.opini-content{
+	border: 1px solid #e8e8e8;
+}
+.opinicontent-title{
+	font-weight: bold;
+}
+.nasional .title{
+	margin-left: 24px;
+	text-align: center;
+	padding: 10px 14px;
+	background-color: #02a384;
+	width:94px;
+}
+.nasional{
+	margin-top: 30px;
+	border: 1px solid #e8e8e8;
+	font-weight: bold;
+	font-size: 13px;
+	color: #ffffff;
+}
+.nasional-content{
+	border: 1px solid #e8e8e8;
+}
+.nasionalcontent-title{
+	font-weight: bold;
+	font-size: 12px;
+}
+.nasionalcontent-description{
+	margin-right: 2px;
+}
+.polling{
+	border: 1px solid #e8e8e8;
+	font-weight: bold;
+	font-size: 13px;
+	color: #ffffff;
+}
+.polling .title{
+	margin-left: 24px;
+	text-align: center;
+	padding: 10px 14px;
+	background-color: #02a384;
+	width:94px;
+}
+.polling-content{
+	border: 1px solid #e8e8e8;
+}
+.polling-content .radio{
+	margin-left: 20px;
+}
+.polling-content .btn-orange{
+	background-color: #fab442;
+	color: #000000;
+	width: 90px;
+	margin-top: 5px;
+}
+.religi .title{
+	margin-left: 24px;
+	text-align: center;
+	padding: 10px 14px;
+	background-color: #02a384;
+	width:94px;
+}
+.religi{
+	border: 1px solid #e8e8e8;
+	font-weight: bold;
+	font-size: 13px;
+	color: #ffffff;
+}
+.religi-content{
+	border: 1px solid #e8e8e8;
+}
+.hukum .title{
+	margin-left: 24px;
+	text-align: center;
+	padding: 10px 14px;
+	background-color: #02a384;
+	width:190px;
+}
+.hukum{
+	border: 1px solid #e8e8e8;
+	font-weight: bold;
+	font-size: 13px;
+	color: #ffffff;
+}
+.berita{
+	border: 1px solid #e8e8e8;
+	font-weight: bold;
+	font-size: 13px;
+	color: #ffffff;
+}
+.berita .title{
+	margin-left: 24px;
+	text-align: center;
+	padding: 10px 14px;
+	background-color: #02a384;
+	width:140px;
+}
+.berita-content{
+	border: 1px solid #e8e8e8;
+}
+.berita-content-title{
+	font-weight: bold;
+	font-size: 17px;
+	text-align: left;
+}

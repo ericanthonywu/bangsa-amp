@@ -1,0 +1,4 @@
+/*ui-tabs*/
+!function(n){n.extend(n.ui.tabs.prototype,{rotation:null,rotationDelay:null,continuing:null,rotate:function(n,o){var e=this,i=this.options;(n>1||null===e.rotationDelay)&&void 0!==n&&(e.rotationDelay=n),void 0!==o&&(e.continuing=o);var a=e._rotate||(e._rotate=function(t){clearTimeout(e.rotation),e.rotation=setTimeout(function(){var t=i.selected;e.select(++t<e.anchors.length?t:0)},n),t&&t.stopPropagation()}),r=e._unrotate||(e._unrotate=o?function(){t=i.selected,a()}:function(t){t.clientX&&e.rotate(null)});return n?(this.element.bind("tabsshow",a),this.anchors.bind(i.event+".tabs",r),a()):(clearTimeout(e.rotation),this.element.unbind("tabsshow",a),this.anchors.unbind(i.event+".tabs",r),delete this._rotate,delete this._unrotate),1===n&&(n=e.rotationDelay),this},pause:function(){{var t=this;this.options}t.rotate(0)},unpause:function(){{var t=this;this.options}t.rotate(1,t.continuing)}})}(jQuery);
+
+/*ticker*/

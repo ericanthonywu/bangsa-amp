@@ -1,0 +1,25 @@
+.footer{
+	background-color: #555555;
+	height: 84px;
+}
+.clear-height-32{
+	margin-top: 32px;
+}
+.footer .copyright{
+	color: #ffffff;
+}
+.footer .copyright a{
+	color: #ffffff;
+	text-decoration: none;
+}
+.footer .list-inline{
+	text-align: right;
+}
+.footer .garis{
+	border-right: 1px solid #ffffff;
+	margin-right: -2px;
+}
+.footer ul li a{
+	color: #ffffff;
+	text-decoration: none;
+}

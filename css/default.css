@@ -1,0 +1,10 @@
+#redactor_modal_inner footer{
+	height:40px !important;
+	margin-top:0px !important;
+	margin-left:0px !important;
+}
+
+ul.nestedAdminCategories, ul.nestedAdminCategories li{
+	list-style:none;
+	padding-left:0px;
+}

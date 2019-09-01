@@ -1,0 +1,117 @@
+.height-20{
+	height: 60px;
+}
+.margin-10{
+	margin-right: 10px;
+}
+.title{
+
+	background-color: #f2f2f2;
+	height: 35px;
+}
+.title-category{
+	padding: 5px 0;
+}
+.title-templates{
+	font-size: 25px;
+	font-weight: bold;
+}
+.clear-height-100{
+	margin-top: 500px;
+}
+.clear-height-50{
+	margin-top: 200px;
+}
+.title-category-templates{
+	font-size: 25px;
+}
+.green{
+	color: #2f9679;
+}
+.grey{
+	color: #b3b3b3;
+}
+.btn-blue{float: right;
+	background-color: #4990e2;
+	color: #ffffff;
+}
+.box-berita{
+	margin-right: 20px;
+	width: 340px;
+	float: left;
+}
+.berita{
+	border: 1px solid #e8e8e8;
+	font-weight: bold;
+	font-size: 13px;
+	color: #ffffff;
+}
+.berita .title{
+	margin-left: 24px;
+	text-align: center;
+	padding: 10px 14px;
+	background-color: #02a384;
+	width:150px;
+}
+.berita-content1{
+	border: 1px solid #e8e8e8;
+}
+.pagination{
+	display: inline-block;
+	float: right;
+	text-decoration: none;
+}
+.pagination a{
+	color: #000000;
+	padding: 6px 10px;
+	background-color: #e9e9e9;
+	border-radius: 7px;
+}
+.pagination a:hover{
+	color: #ffffff;
+	background-color: #02a384;
+	text-decoration: none;
+}
+.pagination a.active{
+	color: #ffffff;
+	background-color: #02a384;
+}
+.tags{
+	border-bottom :1px solid #e8e8e8;
+	border-top: 1px solid #e8e8e8;
+
+}
+.btn-grey{color: #ffffff;
+	font-size: 11px;
+	background-color:#9e9e9e;
+	height: 24px;
+	border-right: 2%;
+}
+.title-artikel{
+	font-size: 36px;
+	font-weight: bold;
+}
+.title-tentang-kami{
+	font-size: 36px;
+	font-weight: bold;
+}
+.name-company{
+	font-size: 40px;
+	font-weight: bold;
+}
+.web-address{
+	font-size: 25px;
+	font-weight: bold;
+}
+.label-owner{
+	font-size: 23px;
+}
+.name-owner{
+	font-size: 17px;
+	font-weight: bold;
+}
+.line{
+	position: absolute;
+	top: 20px;
+	left: -1px;
+}
